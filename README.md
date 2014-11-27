@@ -22,6 +22,7 @@ creditCardRegex.test('4117733979986127');
 
 creditCardRegex.test('6031181485017922');
 //=> invalid
+```
 
 ## License
 
