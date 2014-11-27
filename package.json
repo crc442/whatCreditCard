@@ -1,0 +1,27 @@
+{
+  "name": "what-credit-card",
+  "version": "1.0.0",
+  "description": "Check to determine if input is a valid credit card number; If valid, determines the type of credit card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crc442/whatCreditCard.git"
+  },
+  "keywords": [
+    "creditcard",
+    "valid",
+    "type",
+    "regex",
+    "input",
+    "number"
+  ],
+  "author": "Chirag Chauhan @imcrc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crc442/whatCreditCard/issues"
+  },
+  "homepage": "https://github.com/crc442/whatCreditCard"
+}
