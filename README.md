@@ -1,7 +1,7 @@
 whatCreditCard
 ==============
 
-> Check if the input is a valid credit card number.
+> Check if the input is a valid credit card number; If valid, determines the type(name of issuing company) of credit card
 
 ## Install
 
