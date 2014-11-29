@@ -20,7 +20,7 @@ function main_function (card) {
 
 /**
 * 
-* If valid, what kind of MasterCard
+* If valid, what kind of credit card
 * Returns 'valid', if the type card not found.
 * @param String {input}
 * @api public
