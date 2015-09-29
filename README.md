@@ -14,10 +14,10 @@ $ npm install --save what-credit-card
 ```js
 var whatCreditCard = require('what-credit-card');
 
-whatCreditCard.test('6011881485017922');
+whatCreditCard.test('6011881489874922');
 //=> MasterCard
 
-creditCardRegex.test('4117733979986127');
+creditCardRegex.test('4117733972344127');
 //=> Visa
 
 creditCardRegex.test('6031181485017922');
