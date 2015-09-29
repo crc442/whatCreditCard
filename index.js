@@ -9,12 +9,12 @@ var JCB = '^(?:2131|1800|35\d{3})\d{11}$';
 
 function main_function (card) {
 	if (testIfValid(card)) {
-		// return whatCard(card);
-		console.log(whatCard(card));
+		return whatCard(card);
+		// console.log(whatCard(card));
 	}
 	else{
-		// return 'invalid';
-		console.log('invalid');
+		return 'invalid';
+		// console.log('invalid');
 	}
 }
 
