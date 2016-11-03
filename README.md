@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/dm/localeval.svg?style=plastic)](https://github.com/crc442/whatCreditCard)
+[![npm](https://img.shields.io/npm/dt/what-credit-card.svg)]([![npm](https://img.shields.io/npm/dm/localeval.svg?style=plastic)](https://github.com/crc442/whatCreditCard))
 
 whatCreditCard
 ==============
