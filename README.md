@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/dm/localeval.svg?style=plastic)](https://github.com/crc442/whatCreditCard)
+
 whatCreditCard
 ==============
 
