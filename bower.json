@@ -1,0 +1,24 @@
+{
+  "name": "whatCreditCard",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/crc442/whatCreditCard",
+  "authors": [
+    "@imcrc<crc442@nyu.edu>"
+  ],
+  "description": "credit card validation",
+  "keywords": [
+    "credit",
+    "card",
+    "validation",
+    "regex"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
